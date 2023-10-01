@@ -1,6 +1,6 @@
 package com.cyberia.mvc;
 // the controller
-
+//this is main
 public class Controller
 {
     private final RecordStudent model;
