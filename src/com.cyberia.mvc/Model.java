@@ -4,7 +4,7 @@ public class Model
 {
     public static RecordStudent getStudent()
     {
-        // New record
+        // New record done
         return  new RecordStudent();
     }
 
