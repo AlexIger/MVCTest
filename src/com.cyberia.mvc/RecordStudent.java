@@ -3,8 +3,8 @@ package com.cyberia.mvc;
 
 public class RecordStudent
 {
-    private String rollNo;
-    private String name;
+    private String rollNo = "102";
+    private String name = "Adam";
 
     public String getRollNo()
     {

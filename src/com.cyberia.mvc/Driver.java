@@ -17,4 +17,9 @@ public class Driver
         controller.setStudentRollNo("28");
         controller.updateView();
     }
+
+    public int getAge(int age)
+    {
+        return 100 + age;
+    }
 }
