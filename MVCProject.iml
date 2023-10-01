@@ -26,5 +26,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="mockito.junit.jupiter" level="project" />
+    <orderEntry type="library" name="google.truth" level="project" />
+    <orderEntry type="library" name="google.truth.extensions.java8.extension" level="project" />
   </component>
 </module>
