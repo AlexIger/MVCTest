@@ -1,6 +1,4 @@
 package com.cyberia.mvc;
-// Uses the StudentController methods to demonstrate MVC design pattern
-// Test this class
 
 public class Driver
 {
